@@ -1,0 +1,12 @@
+{
+  "name": "rpn",
+  "version": "1.0.0",
+  "description": "RPN calculator impmented in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Leo Lanzo",
+  "license": "ISC"
+}
